@@ -1,0 +1,10 @@
+{
+  "name": "maintenio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plateforme SaaS de gestion de la maintenance des bâtiments",
+  "packageManager": "pnpm@12.4.2",
+  "engines": {
+    "node": ">=24"
+  }
+}
